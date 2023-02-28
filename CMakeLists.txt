@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(CHAPTER_2_Introducing_Fundamental_Types_of_Data)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(CHAPTER_2_Introducing_Fundamental_Types_of_Data main.cpp)
